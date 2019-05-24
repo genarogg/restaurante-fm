@@ -38,6 +38,19 @@ header .menu {
 	text-align: right;
 }
 
+header .menu a {
+	color: #fff;
+	font-size: 20px;
+	font-weight: 300;
+	display: inline-block;
+	margin: 40px 20px;
+	text-decoration: none;
+	position: relative;
+}
+
+header .menu a:hover {
+	text-decoration: underline;
+}
 
 
 
