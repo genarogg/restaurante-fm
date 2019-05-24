@@ -60,6 +60,16 @@ header .textos {
 	margin-top:-52px;
 }
 
+header .textos .nombre {
+	font-size: 50px;
+	font-weight: 600;
+}
+
+header .textos .nombre span {
+	font-weight: 300;
+}
+
+
 
 
 
