@@ -28,6 +28,16 @@ header {
 	background-position: center 0;
 }
 
+header .contenedor {
+	position: relative;
+	height: 700px;
+}
+
+header .menu {
+	width: 100%;
+	text-align: right;
+}
+
 
 
 
