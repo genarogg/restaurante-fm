@@ -75,6 +75,16 @@ header .textos h3 {
 	font-style: italic;
 }
 
+/* ----- ----- MAIN ----- ----- */
+.main {
+	background: url('../img/bg-textura.png');
+	background-repeat: repeat;
+}
+
+.main .acerca-de .contenedor {
+	overflow: visible;
+	position: relative;
+}
 
 
 
