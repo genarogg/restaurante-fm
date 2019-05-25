@@ -180,6 +180,20 @@ header .textos h3 {
 	clear: both;
 }
 
+.main .galeria {
+	overflow: hidden;
+}
+
+.main .galeria .foto {
+	width: 25%;
+	float: left;
+}
+
+.main .galeria .foto img {
+	width: 100%;
+	vertical-align: top;
+	opacity: .7;
+}
 
 
 
