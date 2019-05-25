@@ -134,6 +134,20 @@ header .textos h3 {
 	margin-bottom: 40px;
 }
 
+.main .menu .contenedor-menu,
+.main .menu .contenedor-menu2 {
+	border:1px solid #000;
+	background: transparent;
+	padding: 10px;
+	overflow: hidden;
+}
+
+.main .menu article {
+	width: 50%;
+	float: left;
+	padding: 20px;
+}
+
 
 
 
