@@ -195,6 +195,18 @@ header .textos h3 {
 	opacity: .7;
 }
 
+.main .galeria .foto img:hover {
+	opacity: 1;
+	-webkit-transition: all .3s ease;
+	-o-transition: all .3s ease;
+	transition: all .3s ease;
+}
+
+.main .ubicacion {
+	background: #fff;
+	padding: 60px 0;
+	overflow: hidden;
+}
 
 
 
