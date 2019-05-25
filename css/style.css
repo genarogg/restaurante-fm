@@ -148,7 +148,12 @@ header .textos h3 {
 	padding: 20px;
 }
 
-
+.main .menu .categoria {
+	font-size: 22px;
+	font-weight: 700;
+	margin-bottom: 40px;
+	text-align: center;
+}
 
 
 
