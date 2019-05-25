@@ -216,6 +216,12 @@ header .textos h3 {
 	margin-bottom: 40px;
 }
 
+.main .ubicacion .direccion {
+	float: left;
+	width: 50%;
+	text-align: left;
+}
+
 
 
 
