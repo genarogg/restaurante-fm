@@ -330,7 +330,12 @@ footer .copyright {
 		margin-bottom: 10px;
 	}
 
-	
+	.main .menu article .nombre,
+	.main .menu article .precio {
+		font-size: 16px;
+		line-height: 16px;
+	}
+
 	
 
 	
