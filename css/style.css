@@ -255,3 +255,15 @@ header .textos h3 {
 	max-height: 600px;
 }
 
+/* ----- ----- FOOTER ----- ----- */
+footer {
+	background: #000;
+}
+
+footer .copyright {
+	text-align: center;
+	padding: 15px 0;
+	color: #fff;
+}
+
+
