@@ -336,7 +336,9 @@ footer .copyright {
 		line-height: 16px;
 	}
 
-	
+	.main .ubicacion .direccion {
+		margin-bottom: 15px;
+	}
 
 	
 }
