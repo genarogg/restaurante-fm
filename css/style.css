@@ -290,5 +290,14 @@ footer .copyright {
 		font-size: 30px;
 	}
 
+	header .textos h3 {
+		font-size: 18px;
+	}
+
+	.main .acerca-de .foto {
+		width: 100%;
+		position: relative;
+	}
+
 }
 
