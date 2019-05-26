@@ -340,5 +340,9 @@ footer .copyright {
 		margin-bottom: 15px;
 	}
 
-	
+	.main .ubicacion .direccion, 
+	.main .ubicacion .horarios {
+		width: 100%;
+		text-align: center;
+	}
 }
