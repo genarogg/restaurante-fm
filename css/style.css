@@ -306,7 +306,14 @@ footer .copyright {
 		transform:translate(0px, 0);
 	}
 
-	
+	.main .menu {
+		padding-top: 300px;
+	}
+
+	.main .menu article {
+		width: 100%;
+	}
+
 	
 }
 
