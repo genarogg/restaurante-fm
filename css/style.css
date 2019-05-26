@@ -273,6 +273,15 @@ footer .copyright {
 		height: auto;
 	}
 
+	header .textos {
+		position: static;
+		margin: 100px 0;
+	}
 
+	header .menu {
+		text-align: center;
+	}
+
+	
 }
 
