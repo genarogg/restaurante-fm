@@ -66,6 +66,13 @@ $(document).ready(function(){
             }, 500);
         });
     
+        $('#btn-menu').on('click', function(e){
+            e.preventDefault();
+            $('html, body').animate({
+                scrollTop: menu
+            }, 500);
+        });
+    
      
         
     
