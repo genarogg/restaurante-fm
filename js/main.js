@@ -73,7 +73,13 @@ $(document).ready(function(){
             }, 500);
         });
     
-     
+        $('#btn-galeria').on('click', function(e){
+            e.preventDefault();
+            $('html, body').animate({
+                scrollTop: galeria
+            }, 500);
+        });
+    
         
     
     });
