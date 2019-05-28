@@ -59,7 +59,12 @@ $(document).ready(function(){
             galeria = $('#galeria').offset().top,
             ubicacion = $('#ubicacion').offset().top;
     
-       
+        $('#btn-acerca-de').on('click', function(e){
+            e.preventDefault();
+            $('html, body').animate({
+                scrollTop: acercaDe - 100
+            }, 500);
+        });
     
      
         
