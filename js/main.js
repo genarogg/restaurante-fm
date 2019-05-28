@@ -52,7 +52,15 @@ $(document).ready(function(){
                 marginTop: '-52px'
             }, 1500);
         }
-
+    
+    // Scroll Elementos Menu
+        var acercaDe = $('#acerca-de').offset().top,
+            menu = $('#platillos').offset().top,
+            galeria = $('#galeria').offset().top,
+            ubicacion = $('#ubicacion').offset().top;
+    
+       
+    
      
         
     
